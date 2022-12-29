@@ -1,5 +1,4 @@
 👋 Hi, I’m @AdityaSwarup. I'm a Pure Mathematics and Philosophy minor student at the University of Waterloo and I love doing research projects.
-I'm currently working on a SQL project analysing and contrasting pandemic data between Covid-19 and SARS, H1N1, and Ebola.
-Always open to collaborating with people on any interesting project ideas :)
+My most recent project is Atlas, a solution dedicated to connecting the world. Atlas takes multiple user locations as an input, and ouputs a centroid of those locations, while also returning a list of things to do around the centroid. On this project, I worked on the front-end development and the mathematics behind the algorithm. 
 
 
